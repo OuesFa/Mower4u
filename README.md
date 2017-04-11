@@ -18,8 +18,7 @@ Le gain le plus important sur les performances est atteint en retraitant la donn
 
 ## III. Choix des algorithmes:
 
-- 1er. Régression Linéaire Lasso sur données polynomiales d'ordre 2
-- 2nd. Régression Linéaire standard (sans pénalisation) sur données polynomiales d'ordre 2
+- 1er. For�ts Al�atoires (nb_estimateurs=300, max_profondeur=7)
+- 2nd. Régression Linéaire standard (sans pénalisatio
 - 3eme. XGBoost (profondeur 4, nb_estimateurs : 400, learning rate à 0.05) sur donnée d'ordre 1.
 
-# <font color='red'>IMPORTANT : </font> 

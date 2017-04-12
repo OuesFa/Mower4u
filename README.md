@@ -23,3 +23,6 @@ Le gain le plus important sur les performances est atteint en retraitant la donn
 - 2nd. Régression Linéaire standard (sans pénalisatio
 - 3eme. XGBoost (profondeur 4, nb_estimateurs : 400, learning rate à  0.05) sur donnée d'ordre 1.
 
+# <font color='red'>IMPORTANT : </font> 
+
+- Le notebook fourni fait office de rapport et de code à la fois.

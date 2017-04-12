@@ -25,4 +25,4 @@ Le gain le plus important sur les performances est atteint en retraitant la donn
 
 # <font color='red'>IMPORTANT : </font> 
 
-- Les notebooks fournis font office de rapport et de code à la fois, il est possible de les exécuter néanmoins les affichages seront réinitialisés et il sera nécessaire d'attendre la fin de l'exécution du notebook.
+- Le notebook fourni fait office de rapport et de code à la fois.
